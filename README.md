@@ -6,6 +6,16 @@
 
 ## Getting started
 
-Go in `server.js` and change tokens at the top for twitter and at the bottom for the Discord Bot.
+Go in `server.js` and change tokens at the top for Twitter and at the bottom for the Discord Bot.
 
 For Twitter Tokens and how to generate them, I let you search on Internet.
+
+## Licence
+
+You are allowed to edit the program, make it commercial, but you are not allowed to :
+
+- Change the licence
+- Remove my copyright
+- Remove the link to the original GitHub repo
+
+See more [here](https://choosealicense.com/licenses/gpl-3.0/#)
