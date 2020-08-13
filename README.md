@@ -6,9 +6,13 @@
 
 ## Getting started
 
+Do `npm i` to install all needed node_modules.
+
 Go in `server.js` and change tokens at the top for Twitter and at the bottom for the Discord Bot.
 
 For Twitter Tokens and how to generate them, I let you search on Internet.
+
+You can customize the prefix for commands in settings.json.
 
 ## Licence
 
