@@ -1,0 +1,23 @@
+{
+  "name": "discordtw",
+  "version": "1.0.0",
+  "description": "Discord bot that can Tweet !",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordbot",
+    "twitter"
+  ],
+  "author": "gcn (twitter.com/gcnudde59)",
+  "license": "ISC",
+  "devDependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  },
+  "dependencies": {}
+}
