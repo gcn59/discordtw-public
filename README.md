@@ -6,7 +6,7 @@
 
 ## Getting started
 
-Do `npm i` to install all needed n
+Do `npm i` to install all needed node_modules
 
 Go in `server.js` and change tokens at the top for Twitter and at the bottom for the Discord Bot.
 
